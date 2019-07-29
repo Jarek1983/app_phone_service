@@ -18,3 +18,15 @@ body {
   background-position: center;
 }
 
+#team img {
+  margin-top: -100px;
+}
+
+#team .card {
+  background-color: whitesmoke;
+}
+
+#team .card:hover {
+  background-color: darkgray;
+  color: whitesmoke;
+}
