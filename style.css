@@ -1,5 +1,10 @@
 body {
   font-family: 'Simonetta', cursive;
+  margin-top; 
+}
+
+.transparent {
+  background: rgba(0,0,0,0.7);
 }
 
 .max-viewport {
