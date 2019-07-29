@@ -2,3 +2,6 @@ body {
   font-family: 'Simonetta', cursive;
 }
 
+.max-viewport {
+  min-height: 100vh;
+}
